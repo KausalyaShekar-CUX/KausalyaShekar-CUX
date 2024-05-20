@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KausalyaShekar-CUX
+- 👀 I’m interested in Conversation Designing[Voiceflow], NLP Training[Dialogflow] and Data Analysis/Text Analysis[Azure Dashboard,KQL,Excel]
+- 🌱 I’m currently exploring Conversation designing tools[Cognigy, Kore.ai].
